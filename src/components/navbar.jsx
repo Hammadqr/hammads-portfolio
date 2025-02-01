@@ -13,13 +13,13 @@ const Navbar = () => {
               <a 
                 href="/resume.pdf" 
                 download
-                className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-medium transition-colors"
+                className="bg-blue-600 hover:bg-blue-700 text-amber-100 px-4 py-2 rounded-md text-sm font-medium transition-colors !text-amber-100 hover:!text-amber-50"
               >
                 Download Resume
               </a>
               <div className="flex space-x-4">
                 <a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/hammad-qaiser-a72657229/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white"

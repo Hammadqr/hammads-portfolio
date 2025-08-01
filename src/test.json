@@ -1,0 +1,12 @@
+{
+  "train": [
+    {"text": "The quick brown fox jumps over the lazy dog."},
+    {"text": "Mistral is a powerful open-source language model."},
+    {"text": "Machine learning models require fine-tuning for domain-specific tasks."},
+    {"text": "Artificial intelligence is transforming various industries."},
+    {"text": "LoRA is an efficient method for fine-tuning large language models."},
+    {"text": "Python is widely used for AI and machine learning projects."},
+    {"text": "Cloud computing enables scalable AI model training."},
+    {"text": "Open-source models accelerate research and development."}
+  ]
+}
